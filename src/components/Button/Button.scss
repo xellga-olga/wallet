@@ -1,0 +1,17 @@
+.button {
+  background: var(--dark);
+  padding: 8px 10px;
+  display: inline-block;
+  border-radius: 8px;
+  font-size: 12px;
+  mix-blend-mode: multiply;
+  cursor: pointer;
+
+
+  span {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: var(--light);
+  }
+}
