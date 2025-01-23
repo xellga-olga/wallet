@@ -19,7 +19,12 @@ export const BalanceCard = (props) => {
                 <div className="balanceCard-date">12/26</div>
             </div>
 
-            <Button onClick={onClick}>Add money</Button>
+            <Button
+                className="balanceCard-btn"
+                onClick={onClick}
+            >
+                Add money
+            </Button>
         </div>
     )
 }

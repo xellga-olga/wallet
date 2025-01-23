@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="315e179c-d3bc-4cc2-ab51-f74561d24d74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BalanceCard/BalanceCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BalanceCard/BalanceCard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Actions/Actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Actions/Actions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Block/Block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Block/Block.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BalanceCard/BalanceCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BalanceCard/BalanceCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BalanceCard/BalanceCard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BalanceCard/BalanceCard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +83,7 @@
       <workItem from="1737296657926" duration="165000" />
       <workItem from="1737298544651" duration="1776000" />
       <workItem from="1737387097392" duration="599000" />
-      <workItem from="1737481285117" duration="7547000" />
+      <workItem from="1737481285117" duration="18192000" />
     </task>
     <servers />
   </component>

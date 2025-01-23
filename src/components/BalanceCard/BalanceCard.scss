@@ -5,6 +5,7 @@
   color: var(--dark);
   border-radius: 12px;
   padding: 40px 25px;
+  position: relative;
 
   &-info {
     display: flex;
@@ -21,6 +22,12 @@
     font-size: 24px;
     font-weight: 500;
     margin: 10px 0 20px;
+  }
+
+  &-btn {
+    position: absolute;
+    bottom: 10%;
+    right: 20%;
   }
 
   &-number {}
