@@ -1,0 +1,49 @@
+.CircleStatistic {
+
+  &-circle {
+    position: relative;
+    width: 60px;
+    height: 60px;
+
+  }
+
+  svg {
+    fill: transparent;
+
+    circle {
+      stroke-width: 5px;
+      transform: rotate(-90deg);
+      transform-origin: center;
+      transition: 0.5s linear;
+
+      &:first-child {
+        stroke: var(--grey);
+        opacity: 0.2;
+      }
+    }
+
+    .CircleStatistic-circle_default {
+      stroke: url(#grey);
+    }
+    .CircleStatistic-circle_primary {
+      stroke: url(#primary);
+    }
+  }
+
+
+
+  &-label{
+    font-size: 11px;
+    text-transform: uppercase;
+    align-items: center;
+  }
+
+  &-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-weight: 500;
+  }
+}

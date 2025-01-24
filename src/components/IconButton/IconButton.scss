@@ -1,0 +1,17 @@
+.IconButton {
+  font-size: 22px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #676767;
+  border: 1px solid #c0c0c0;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  cursor: pointer;
+
+  i {
+    font-size: 24px;
+  }
+}

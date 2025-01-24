@@ -1,0 +1,22 @@
+.Statistic {
+  &-label {
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 300;
+    margin-bottom: 5px;
+  }
+
+  &-2col{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &:not(:last-child) {
+       margin-bottom: 30px;
+    }
+  }
+
+  &-balance {
+    font-size: 34px;
+  }
+}
