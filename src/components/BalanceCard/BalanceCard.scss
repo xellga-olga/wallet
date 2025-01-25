@@ -1,6 +1,6 @@
 .balanceCard {
   width: 315px;
-  height: 220px;
+  height: 160px;
   background: url("../../images/card.jpg") center / cover no-repeat;
   color: var(--dark);
   border-radius: 12px;
@@ -26,8 +26,8 @@
 
   &-btn {
     position: absolute;
-    bottom: 10%;
-    right: 20%;
+    bottom: 4%;
+    right: 3%;
   }
 
   &-number {}
